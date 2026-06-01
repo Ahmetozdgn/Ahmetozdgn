@@ -42,7 +42,10 @@ I am a **Mechatronics Engineer** currently pursuing an **MSc in Physics** at Zon
 ---
 
 ### 📊 GitHub Statistics
-![Ahmet's Stats](https://github-readme-stats.vercel.app/api?username=Ahmetozdgn&show_icons=true&theme=tokyonight)
+
+| Total Commits | Stars | Most Used Languages |
+| :---: | :---: | :---: |
+| **53** | **59** | **Python, C++** |
 
 ---
 
