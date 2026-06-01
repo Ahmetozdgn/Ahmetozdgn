@@ -1,54 +1,56 @@
 # Hi 👋 I'm Ahmet Özdoğan
 
-### Mechatronics Engineer | MSc Physics Student | AI & Robotics Enthusiast
+### Mechatronics Engineer | MSc Physics Student | AI & Software Developer
+**"Learn today, produce tomorrow"** 🚀
 
 ---
 
 ### 🧠 About Me
 
-I am a **Mechatronics Engineer** currently pursuing my **MSc in Physics** at Zonguldak Bülent Ecevit University. My work sits at the intersection of hardware, software, and advanced physical simulations. I am passionate about building autonomous systems and exploring the physical properties of nanoparticles.
+I am a **Mechatronics Engineer** currently pursuing an **MSc in Physics** at Zonguldak Bülent Ecevit University. I specialize in bridging the gap between hardware and software, with a strong focus on AI, industrial automation, and computational physics.
 
-*   🔬 **Research:** Focused on autonomous systems and multi-physics simulations.
-*   🤖 **AI & Software:** Developing AI solutions with Python and FastAPI.
-*   🌱 **Current Motto:** "Bugün öğren, yarın üret"
+*   🏆 **Top 4.7% AI Talent:** Selected as one of 1,500 trainees among 31,700 applicants for the AI Trainee program by the Ministry of Industry and Tech, T3 Foundation, and Google.
+*   🔬 **Research:** Working on Surface Plasmon Resonance (SPR) of Silver Nanoparticles using Mie Theory and Python simulations.
+*   🤖 **AI & Software:** Developing end-to-end web applications and deep learning models[cite: 1].
+*   ⚙️ **Industrial Experience:** Experienced in R&D, quality control, and maintenance engineering[cite: 1].
 
 ---
 
-### 🔬 Research & Focus Areas
+### 💼 Professional Experience Highlights
 
-*   **Mie Theory** for Silver Nanoparticle SPR (Master's thesis).
-*   **Mechatronics** for STEM education and waste management.
+*   **AI Trainee @ T3 Foundation / Google:** Applied deep learning, web application development, and Google-certified Project Management (Agile/Scrum)[cite: 1].
+*   **Junior Full-Stack Developer @ Neos Software:** Developed web applications using Django, ReactJS, and PostgreSQL with AWS S3 and Iyzico integrations[cite: 1].
+*   **Quality & R&D Engineer:** Hands-on experience at Obal Alüminyum and Mateks Makina in industrial production and prototyping[cite: 1].
 
 ---
 
 ### 🔨 Technologies & Tools
 
-| Programming Languages | Frameworks & Libraries | Hardware & Automation |
+| Programming | Frameworks & Databases | Engineering & Automation |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40"/> | <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40"/> <img src="https://img.icons8.com/ios-filled/50/ffffff/gears.png" alt="automation" width="40"/> <img src="https://img.icons8.com/ios-filled/50/ffffff/circuit.png" alt="iot" width="40"/> |
-
----
-
-### 📊 GitHub Statistics
-
-| Total Commits | Stars | Most Used Languages |
-| :---: | :---: | :---: |
-| **53** | **59** | **Python, C++** |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35"/> | <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="35"/> **PLC (S7-1200)**, **SolidWorks**, **MATLAB**[cite: 1] |
 
 ---
 
 ### 🌟 Featured Projects
 
-| ⏳ Lavuar Mimarisi | 🤖 SmartOps | 🔬 Mie-SPR-Simulation |
-| :--- | :--- | :--- |
-| STEM & Waste Management | Hackathon ERP System | Nanophysics MSc Thesis |
+*   **SmartOps:** Autonomous ERP and logistics system for women's cooperatives (Hackathon project).
+*   **SPR Simulation Tools:** Terminal and web-based solvers for nanoparticle optical properties (MSc Thesis work)[cite: 1].
+*   **Lavuar Mimarisi:** STEM-focused air quality monitoring and particulate recycling system.
+*   **AWS File Manager:** Secure file management with Iyzico payment system integration[cite: 1].
 
 ---
 
-### 📩 Contact & Socials
+### 📊 GitHub Statistics
 
-*   💼 **LinkedIn:** [linkedin.com/in/ahmet-özdoğan](https://www.linkedin.com/in/ahmet-%C3%B6zdo%C4%9Fan-06b539226/)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmetozdgn&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+</p>
+
+---
+
+### 📫 Contact & Socials
+
+*   💼 **LinkedIn:** [linkedin.com/in/ahmetozdogan](https://www.linkedin.com/in/ahmet-%C3%B6zdo%C4%9Fan-06b539226/)[cite: 1]
 *   📸 **Instagram:** [@dumenden.code](https://www.instagram.com/dumenden.code)
-*   📍 **Location:** TÜRKİYE
-
----
+*   📍 **Location:** Türkiye[cite: 1]
