@@ -7,10 +7,10 @@
 
 ### 🧠 About Me
 
-I am a **Mechatronics Engineer** currently pursuing an **MSc in Physics** at Zonguldak Bülent Ecevit University. I specialize in bridging the gap between hardware and software, with a strong focus on AI, industrial automation, and computational physics.
+I am a **Mechatronics Engineer** currently pursuing an **MSc in Physics** at Zonguldak Bülent Ecevit University[cite: 1]. I specialize in bridging the gap between hardware and software, with a strong focus on AI, industrial automation, and computational physics[cite: 1].
 
-*   🏆 **Top 4.7% AI Talent:** Selected as one of 1,500 trainees among 31,700 applicants for the AI Trainee program by the Ministry of Industry and Tech, T3 Foundation, and Google.
-*   🔬 **Research:** Working on Surface Plasmon Resonance (SPR) of Silver Nanoparticles using Mie Theory and Python simulations.
+*   🏆 **Top 4.7% AI Talent:** Selected as one of 1,500 trainees among 31,700 applicants for the AI Trainee program by the Ministry of Industry and Tech, T3 Foundation, and Google[cite: 1].
+*   🔬 **Research:** Working on Surface Plasmon Resonance (SPR) of Silver Nanoparticles using Mie Theory and Python simulations[cite: 1].
 *   🤖 **AI & Software:** Developing end-to-end web applications and deep learning models[cite: 1].
 *   ⚙️ **Industrial Experience:** Experienced in R&D, quality control, and maintenance engineering[cite: 1].
 
@@ -51,6 +51,6 @@ I am a **Mechatronics Engineer** currently pursuing an **MSc in Physics** at Zon
 
 ### 📫 Contact & Socials
 
-*   💼 **LinkedIn:** [linkedin.com/in/ahmetozdogan](https://www.linkedin.com/in/ahmet-%C3%B6zdo%C4%9Fan-06b539226/)[cite: 1]
+*   💼 **LinkedIn:** [Ahmet ÖZDOĞAN](https://www.linkedin.com/in/ahmet-%C3%B6zdo%C4%9Fan-06b539226/)
 *   📸 **Instagram:** [@dumenden.code](https://www.instagram.com/dumenden.code)
 *   📍 **Location:** Türkiye[cite: 1]
