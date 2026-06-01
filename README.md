@@ -51,6 +51,6 @@ I am a **Mechatronics Engineer** currently pursuing an **MSc in Physics** at Zon
 
 ### 📫 Contact & Socials
 
-*   💼 **LinkedIn:** [Ahmet ÖZDOĞAN](https://www.linkedin.com/in/ahmet-%C3%B6zdo%C4%9Fan-06b539226/)
+*   💼 **LinkedIn:** [Ahmet ÖZDOĞAN](https://www.linkedin.com/in/ahmet-%C3%B6zdo%C4%9Fan/?skipRedirect=true)
 *   📸 **Instagram:** [@dumenden.code](https://www.instagram.com/dumenden.code)
-*   📍 **Location:** Ereğli, Zonguldak, Türkiye
+*   📍 **Location:** Türkiye
